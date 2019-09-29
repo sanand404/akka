@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ee8559e-c938-48ee-b52b-6b11cd0fe38e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/json/guitar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/scala/GuitarExampleMarshalling.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$2fb3ec43d76f32b722c3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$2fb3ec43d76f32b722c3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$2fb3ec43d76f32b722c3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$520e3762393603e44083$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$520e3762393603e44083.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$520e3762393603e44083.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$b08fe214c371943ce5d7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$b08fe214c371943ce5d7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$b08fe214c371943ce5d7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e4c7ed1cb9579a20c36d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e4c7ed1cb9579a20c36d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e4c7ed1cb9579a20c36d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e805a4032dbd745e5803$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e805a4032dbd745e5803.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e805a4032dbd745e5803.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RUfRLC6jPThNaVsxtszipL2ud4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServerWithDirectives">
+    <configuration name="GuitarExampleMarshalling" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="GuitarExampleMarshalling" />
+      <module name="AlluxioRestAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="AlluxioRestAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerWithDirectives" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ServerWithDirectives" />
+      <module name="AlluxioRestAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerWithDirectives" />
+        <item itemvalue="Application.GuitarExampleMarshalling" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="AlluxioRestAPI" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="alluxiorestapi [file:/home/admin/Akka/AlluxioRestAPI/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="AlluxioRestAPI-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="3139453533668" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2909227813" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2868604264" />
+        <entry key="$PROJECT_DIR$/../build.sbt" value="2909227813" />
+        <entry key="$PROJECT_DIR$/../project/build.properties" value="2868604264" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IAC/iac-soc/backend-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/IAC/iac-soc/backend-cluster-ingestion" value="PREVIEW" />
+        <entry key="$USER_HOME$/IAC/iac-soc/backend-ingestion" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/akka-samples-cluster-scala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ee8559e-c938-48ee-b52b-6b11cd0fe38e" name="Default Changelist" comment="" />
+      <created>1569726585262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569726585262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="214" width="850" height="677" key="#Project_Structure" timestamp="1569726651964">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="579" y="214" width="850" height="677" key="#Project_Structure/49.27.1871.1053@49.27.1871.1053" timestamp="1569726651964" />
+    <state x="1185" y="310" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1569740812869">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="1185" y="310" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1569740812869" />
+    <state width="890" height="277" key="GridCell.Tab.0.bottom" timestamp="1569754228870">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="890" height="277" key="GridCell.Tab.0.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1569754228870" />
+    <state width="890" height="277" key="GridCell.Tab.0.center" timestamp="1569754228867">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="890" height="277" key="GridCell.Tab.0.center/49.27.1871.1053@49.27.1871.1053" timestamp="1569754228867" />
+    <state width="890" height="277" key="GridCell.Tab.0.left" timestamp="1569754228866">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="890" height="277" key="GridCell.Tab.0.left/49.27.1871.1053@49.27.1871.1053" timestamp="1569754228866" />
+    <state width="890" height="277" key="GridCell.Tab.0.right" timestamp="1569754228869">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="890" height="277" key="GridCell.Tab.0.right/49.27.1871.1053@49.27.1871.1053" timestamp="1569754228869" />
+    <state x="1088" y="309" width="728" height="486" key="find.popup" timestamp="1569736638257">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="1088" y="309" width="728" height="486" key="find.popup/49.27.1871.1053@49.27.1871.1053" timestamp="1569736638257" />
+    <state x="1115" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1569736615744">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="1115" y="257" width="672" height="678" key="search.everywhere.popup/49.27.1871.1053@49.27.1871.1053" timestamp="1569736615744" />
+  </component>
+</project>

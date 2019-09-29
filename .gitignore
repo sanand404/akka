@@ -1,0 +1,5 @@
+target/*
+project/target/*
+project/target/streams/*
+target/scala-2.13/*
+*.class
