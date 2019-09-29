@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ee8559e-c938-48ee-b52b-6b11cd0fe38e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/json/guitar.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/scala/GuitarExampleMarshalling.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/scala/RouteForGuitar.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$2fb3ec43d76f32b722c3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$2fb3ec43d76f32b722c3.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$2fb3ec43d76f32b722c3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$520e3762393603e44083$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$520e3762393603e44083.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$520e3762393603e44083.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$b08fe214c371943ce5d7$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$b08fe214c371943ce5d7.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$b08fe214c371943ce5d7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e4c7ed1cb9579a20c36d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e4c7ed1cb9579a20c36d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e4c7ed1cb9579a20c36d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e805a4032dbd745e5803$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e805a4032dbd745e5803.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/config-classes/$e805a4032dbd745e5803.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,9 +63,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ServerWithDirectives">
+  <component name="RunManager" selected="Application.RouteForGuitar">
     <configuration name="GuitarExampleMarshalling" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="GuitarExampleMarshalling" />
+      <module name="AlluxioRestAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteForGuitar" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="RouteForGuitar" />
       <module name="AlluxioRestAPI" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RouteForGuitar" />
         <item itemvalue="Application.ServerWithDirectives" />
         <item itemvalue="Application.GuitarExampleMarshalling" />
         <item itemvalue="Application.Server" />
@@ -180,9 +155,25 @@
       <option name="presentableId" value="Default" />
       <updated>1569726585262</updated>
     </task>
+    <task id="LOCAL-00001" summary="Resolve conflict">
+      <created>1569755690522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569755690522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resolve conflict" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolve conflict" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1047" y="214" width="800" height="677" key="#Auto_Import" timestamp="1569757825199">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="1047" y="214" width="800" height="677" key="#Auto_Import/49.27.1871.1053@49.27.1871.1053" timestamp="1569757825199" />
     <state x="579" y="214" width="850" height="677" key="#Project_Structure" timestamp="1569726651964">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
@@ -191,22 +182,30 @@
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state x="1185" y="310" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1569740812869" />
-    <state width="890" height="277" key="GridCell.Tab.0.bottom" timestamp="1569754228870">
+    <state width="1825" height="277" key="GridCell.Tab.0.bottom" timestamp="1569761784154">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
-    <state width="890" height="277" key="GridCell.Tab.0.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1569754228870" />
-    <state width="890" height="277" key="GridCell.Tab.0.center" timestamp="1569754228867">
+    <state width="1825" height="277" key="GridCell.Tab.0.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1569761784154" />
+    <state width="1825" height="277" key="GridCell.Tab.0.center" timestamp="1569761784151">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
-    <state width="890" height="277" key="GridCell.Tab.0.center/49.27.1871.1053@49.27.1871.1053" timestamp="1569754228867" />
-    <state width="890" height="277" key="GridCell.Tab.0.left" timestamp="1569754228866">
+    <state width="1825" height="277" key="GridCell.Tab.0.center/49.27.1871.1053@49.27.1871.1053" timestamp="1569761784151" />
+    <state width="1825" height="277" key="GridCell.Tab.0.left" timestamp="1569761784151">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
-    <state width="890" height="277" key="GridCell.Tab.0.left/49.27.1871.1053@49.27.1871.1053" timestamp="1569754228866" />
-    <state width="890" height="277" key="GridCell.Tab.0.right" timestamp="1569754228869">
+    <state width="1825" height="277" key="GridCell.Tab.0.left/49.27.1871.1053@49.27.1871.1053" timestamp="1569761784151" />
+    <state width="1825" height="277" key="GridCell.Tab.0.right" timestamp="1569761784153">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
-    <state width="890" height="277" key="GridCell.Tab.0.right/49.27.1871.1053@49.27.1871.1053" timestamp="1569754228869" />
+    <state width="1825" height="277" key="GridCell.Tab.0.right/49.27.1871.1053@49.27.1871.1053" timestamp="1569761784153" />
+    <state x="690" y="260" width="578" height="584" key="MultipleFileMergeDialog" timestamp="1569755627361">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="690" y="260" width="578" height="584" key="MultipleFileMergeDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1569755627361" />
+    <state x="579" y="285" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1569755694422">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="579" y="285" width="800" height="534" key="Vcs.Push.Dialog.v2/49.27.1871.1053@49.27.1871.1053" timestamp="1569755694422" />
     <state x="1088" y="309" width="728" height="486" key="find.popup" timestamp="1569736638257">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
